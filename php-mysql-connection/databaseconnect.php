@@ -2,9 +2,9 @@
 
 <?php
 $servername = "localhost";
-$database = "u123456789_DatabaseName";
-$username = "u123456789_User";
-$password = "MyStr0ngPa$!";
+$database = "u658202322_developer";
+$username = "u658202322_developer";
+$password = "Cooldatabase1$";
  
 // Create connection
  
